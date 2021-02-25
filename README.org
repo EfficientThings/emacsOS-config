@@ -1,0 +1,3 @@
+#+TITLE: emacsOS-config
+
+Default config to go along with optional default packages for emacsOS.
